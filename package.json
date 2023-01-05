@@ -1,0 +1,16 @@
+{
+  "name": "tarkovpricebot",
+  "version": "1.0.0",
+  "description": "Return price items in escape of tarkov",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Bruno Cordeiro",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
